@@ -10,4 +10,4 @@ def fizz_buzz(n):
             print(i)
 
 
-fizz_buzz(17)
+fizz_buzz(15)
